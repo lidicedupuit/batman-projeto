@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family= Kdam+Thmor+Pro & display = swap');
+
+*{
+    margin: 0;
+    background-color:rgb(246, 237, 237) ;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+} 
+header{
+height: 80%x;
+ display: flex;
+justify-content:space-around;
+align-items:flex-start;
+list-style: none;
+color: rgb(2, 9, 15);
+font-size: 19px;
+font-family: ('https://fonts.googleapis.com/css2?family= Kdam+Thmor+Pro & display = swap');;
+}
+
+     

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-image:url("https://tse1.mm.bing.net/th?id=OIP.HYX7iF77RtL9QOzXo1dscgHaEK&pid=Api&P=0") ;
+    background-position: 50% 50%;
+}
+
+
+.foto1{
+    width: 500px;
+    height: 100px;
+    margin: 10px 10px;
+    background-color: brown;
+    border:20px solid white;
+    border-radius: 50px;
+    display:inline-block;
+    position: static;  
+
+}
+.foto2{
+    width: 500px;
+    height: 100px;
+    margin: 10px 20px;
+    background-color: brown;
+    border:20px solid white;
+    border-radius: 50px;
+    display:inline-block;
+    position: static; 
+}
+.foto3{
+    width: 500px;
+    height: auto;
+    margin: 10px 20px;
+    background-color: brown;
+    border:20px solid white;
+    border-radius: 50px;
+    display:inline-block;
+    position: static; 
+}
+.foto4{
+    width: 500px;
+    height:auto;
+    margin: 10px 20px;
+    background-color: brown;
+    border:20px solid white;
+    border-radius: 50px;
+    display:inline-block;
+    position: static; 
+}
